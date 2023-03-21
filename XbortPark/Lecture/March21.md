@@ -1,7 +1,13 @@
 ---
 id: "March21"
-aliases: ["meeting record"]
-tags: [PHD start-business operational-ability academic-ability]
+aliases:
+  - "meeting record"
+  - "Lecture content"
+tags:
+  - "PHD"
+  - "start-business"
+  - "operational-ability"
+  - "academic-ability"
 ---
 # Lecture content
 ## operational ability vs academic ability

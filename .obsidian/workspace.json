@@ -11,12 +11,8 @@
             "id": "357377bda380c9b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "XbortPark/Lecture/March21.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XbortPark/Lecture/March21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XbortPark/Lecture/March21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "XbortPark/Lecture/March21.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,10 +140,12 @@
   },
   "active": "357377bda380c9b7",
   "lastOpenFiles": [
+    "Git/Version.md",
+    "Git/History.md",
+    "XbortPark/Lecture/March21.md",
     "2023-03-21.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "XbortPark/Lecture/March21.md",
     "Untitled.md",
     "XbortPark/Lecture",
     "XbortPark"
