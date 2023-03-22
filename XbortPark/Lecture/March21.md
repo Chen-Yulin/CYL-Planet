@@ -9,6 +9,15 @@ tags:
   - "operational-ability"
   - "academic-ability"
 ---
+
+<!--toc:start-->
+- [Lecture content](#lecture-content)
+  - [operational ability vs academic ability](#operational-ability-vs-academic-ability)
+- [After lecture chatting](#after-lecture-chatting)
+  - [phd vs start a business](#phd-vs-start-a-business)
+- [How to design education](#how-to-design-education)
+<!--toc:end-->
+
 # Lecture content
 ## operational ability vs academic ability
 动手能力对于公司创业初期有关键作用

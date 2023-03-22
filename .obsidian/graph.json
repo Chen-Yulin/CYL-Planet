@@ -2,11 +2,33 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:nvim",
+      "color": {
+        "a": 1,
+        "rgb": 6608476
+      }
+    },
+    {
+      "query": "path:Python",
+      "color": {
+        "a": 1,
+        "rgb": 2818303
+      }
+    },
+    {
+      "query": "path:Git",
+      "color": {
+        "a": 1,
+        "rgb": 9356283
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 0.366666666666667,
   "linkDistance": 285,
-  "scale": 1.2626061614847968,
+  "scale": 0.8381897802617104,
   "close": true
 }

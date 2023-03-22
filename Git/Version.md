@@ -6,6 +6,17 @@ tags:
   - "git"
   - "version-management"
 ---
+
+<!--toc:start-->
+- [check commit history](#check-commit-history)
+- [change version](#change-version)
+- [switch to latest](#switch-to-latest)
+- [need a early version of a repository](#need-a-early-version-of-a-repository)
+  - [Fork the latest repository on Github](#fork-the-latest-repository-on-github)
+  - [clone the forked repository](#clone-the-forked-repository)
+  - [change the version locally and push](#change-the-version-locally-and-push)
+<!--toc:end-->
+
 ## check commit history
 
 ```bash

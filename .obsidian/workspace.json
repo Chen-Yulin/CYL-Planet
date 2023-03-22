@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a788f5886ef97194",
+        "id": "eb2df08e2f824c94",
         "type": "tabs",
         "children": [
           {
-            "id": "357377bda380c9b7",
+            "id": "a75598f1f5d68111",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PSY/Learning.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PSY/Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PSY/Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PSY/Learning.md"
+              }
             }
           }
         ],
@@ -138,13 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "357377bda380c9b7",
+  "active": "a75598f1f5d68111",
   "lastOpenFiles": [
+    "nvim/LSP/config.md",
+    "nvim/LSP/basic.md",
     "Git/Version.md",
-    "Git/History.md",
+    "PSY/Learning.md",
+    "Python/Scrap.md",
+    "linux/basic.md",
+    "linux",
     "XbortPark/Lecture/March21.md",
-    "2023-03-21.md",
+    "nvim/stdpath.md",
+    "WoodOxen/WeeklyProgress",
+    "WoodOxen",
+    "1679470355-RXPN.md",
+    "nvim/LSP",
+    "nvim",
     "Untitled.canvas",
+    "Git/History.md",
+    "2023-03-21.md",
     "Untitled 1.canvas",
     "Untitled.md",
     "XbortPark/Lecture",
