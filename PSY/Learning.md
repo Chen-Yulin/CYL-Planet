@@ -8,6 +8,7 @@ aliases:
 tags:
   - "Behaviorism"
   - "Humanism"
+  - "PSY"
 ---
 
 <!--toc:start-->

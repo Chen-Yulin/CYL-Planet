@@ -11,8 +11,12 @@
             "id": "a75598f1f5d68111",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WoodOxen/WeeklyProgress/m1.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a325d42e464def1c",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WoodOxen/WeeklyProgress/m1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WoodOxen/WeeklyProgress/m1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +125,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WoodOxen/WeeklyProgress/m1.md"
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 284.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -141,46 +150,39 @@
   },
   "active": "a75598f1f5d68111",
   "lastOpenFiles": [
-    "PSY/Health&Well-Being.md",
-    "AI/GPT/method.md",
-    "PSY/Learning.md",
-    "PSY/Emotion&Motivation.md",
+    "AI/AIGC/March24.md",
     "WoodOxen/WeeklyProgress/m1.md",
+    "nvim/LSP/config.md",
+    "nvim/LSP/basic.md",
     "AI/GPT/app.md",
     "Python/DataFrame.md",
-    "template/ProgressReport.md",
-    "XbortPark/Lecture/March21.md",
     "Python/Scrap.md",
-    "Python/regex.md",
-    "nvim/LSP/config.md",
-    "nvim/InterestingPlugin.md",
-    "DynamicProgramming/basic.md",
-    "DynamicProgramming",
-    "ML/basic.md",
-    "nvim/stdpath.md",
-    "nvim/LSP/basic.md",
-    "WoodOxen/WeeklyProgress/img/m1/inspector.png",
-    "WoodOxen/WeeklyProgress/m1.md.partial",
-    "Math/LinearAlgebra.md",
-    "AI/AIGC/March24.md",
-    "WoodOxen/WeeklyProgress/img/m1/1((SN8FBSFY22~E0PS9_377.png",
-    "WoodOxen/WeeklyProgress/img/m1",
-    "WoodOxen/WeeklyProgress/img/新建文件夹",
-    "WoodOxen/WeeklyProgress/img/1((SN8FBSFY22~E0PS9_377.png",
-    "WoodOxen/WeeklyProgress/img",
-    "WoodOxen/WeeklyProgress/新建文件夹",
-    "Math",
-    "AI/AIGC",
-    "WoodOxen/WeeklyProgress/m1-cyl-Lenovo-XiaoXinPro-14ACH-2021.md",
+    "PSY/Learning.md",
+    "Git/Version.md",
     "Git/Repository.md",
     "WoodOxen/UnityRef.md",
+    "template/ProgressReport.md",
     "WoodOxen/WeeklyProgress/Y3SpWeek6.md",
+    "nvim/stdpath.md",
     "linux/basic.md",
-    "Git/Version.md",
+    "XbortPark/Lecture/March21.md",
     "AI/GPT/application.md",
     "AI/GPT",
     "AI",
+    "template",
+    "2023-03-22.md",
+    "linux",
+    "WoodOxen/WeeklyProgress",
+    "WoodOxen",
+    "1679470355-RXPN.md",
+    "nvim/LSP",
+    "nvim",
     "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Git/History.md",
+    "2023-03-21.md",
+    "Untitled 1.canvas",
+    "Untitled.md",
+    "XbortPark/Lecture",
+    "XbortPark"
   ]
 }
