@@ -36,4 +36,8 @@ Rename
 ```git
 git branch -m oldBranchName newBranchName
 ```
+Move to branch:
+```git
+git checkout [branchname/SHA-1]
+```
 
