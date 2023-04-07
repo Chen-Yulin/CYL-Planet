@@ -11,8 +11,12 @@
             "id": "a75598f1f5d68111",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WoodOxen/WeeklyProgress/m1.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WoodOxen/WeeklyProgress/m1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WoodOxen/WeeklyProgress/m1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WoodOxen/WeeklyProgress/m1.md"
+              }
             }
           }
         ],
@@ -142,8 +150,9 @@
   "active": "a75598f1f5d68111",
   "lastOpenFiles": [
     "Git/submodule.md",
-    "Git/Version.md",
     "Git/Repository.md",
+    "Git/basic.md",
+    "Git/Version.md",
     "linux/ssh.md",
     "nvim/stdpath.md",
     "linux/basic.md",
@@ -177,7 +186,6 @@
     "Math",
     "AI/AIGC",
     "WoodOxen/WeeklyProgress/m1-cyl-Lenovo-XiaoXinPro-14ACH-2021.md",
-    "WoodOxen/UnityRef.md",
     "AI/GPT",
     "AI",
     "Untitled.canvas",
