@@ -33,3 +33,18 @@ sudo apt install [dependencies]
 sudo apt install [package]
 ```
 
+# Manage process
+See all the process:
+```bash
+ps aux
+```
+Find the target pid
+ ```bash
+pgrep [partial name] 
+ ```
+ return the pid of the process
+ kill the process
+ ```bash
+kill [pid]
+ ```
+

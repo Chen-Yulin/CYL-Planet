@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/DataFrame.md",
-                "mode": "source",
+                "file": "WoodOxen/RoadArchitect.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/DataFrame.md",
+                "file": "WoodOxen/RoadArchitect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/DataFrame.md",
+                "file": "WoodOxen/RoadArchitect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/DataFrame.md"
+                "file": "WoodOxen/RoadArchitect.md"
               }
             }
           }
@@ -149,29 +149,28 @@
   },
   "active": "a75598f1f5d68111",
   "lastOpenFiles": [
-    "Python/regex.md",
-    "Python/DataFrame.md",
-    "linux/WM.md",
-    "Git/Version.md",
     "WoodOxen/WeeklyProgress/m1.md",
+    "Math/LinearAlgebra.md",
     "Git/submodule.md",
     "Git/Repository.md",
     "Git/basic.md",
+    "Git/Version.md",
     "linux/ssh.md",
-    "linux/basic.md",
-    "AI/GPT/method.md",
-    "Math/LinearAlgebra.md",
     "nvim/stdpath.md",
+    "linux/basic.md",
     "nvim/InterestingPlugin.md",
     "nvim/LSP/basic.md",
     "nvim/LSP/config.md",
     "PSY/Health&Well-Being.md",
+    "AI/GPT/method.md",
     "PSY/Learning.md",
     "PSY/Emotion&Motivation.md",
     "AI/GPT/app.md",
+    "Python/DataFrame.md",
     "template/ProgressReport.md",
     "XbortPark/Lecture/March21.md",
     "Python/Scrap.md",
+    "Python/regex.md",
     "DynamicProgramming/basic.md",
     "DynamicProgramming",
     "ML/basic.md",
@@ -186,6 +185,7 @@
     "WoodOxen/WeeklyProgress/新建文件夹",
     "Math",
     "AI/AIGC",
+    "WoodOxen/WeeklyProgress/m1-cyl-Lenovo-XiaoXinPro-14ACH-2021.md",
     "AI/GPT",
     "AI",
     "Untitled.canvas",

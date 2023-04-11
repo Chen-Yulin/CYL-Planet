@@ -49,3 +49,6 @@ A positive attitude has positive effects on both your physical and mental health
 This section provides tips and suggestions for maintaining physical and mental health. It includes advice on diet, exercise, sleep, relaxation techniques, social networks, and seeking support.
 
 
+
+# Thoughts
+- Health is the constrain
