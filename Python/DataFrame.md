@@ -7,6 +7,15 @@ tags:
   - "python"
 ---
 
+<!--toc:start-->
+- [Creating a DataFrame](#creating-a-dataframe)
+- [Location](#location)
+- [type transforming](#type-transforming)
+- [Groupby and agg](#groupby-and-agg)
+- [Example](#example)
+  - [Example 1](#example-1)
+<!--toc:end-->
+
 # Creating a DataFrame
 ```python
 import pandas as pd
@@ -41,5 +50,34 @@ df.groupby(['column_name_1', 'column_name_2']).agg(['sum', 'mean', 'max', 'min']
 ```
 
 
+# Example
 
+## Example 1
+
+Extracting the top 20 categories from a DataFrame using `groupby`:
+
+1. Use the `groupby` and `size` methods to calculate the size of each group:
+```python
+group_sizes = df.groupby('category').size()
+````
+
+2.  Use the `sort_values` method to sort the group sizes in descending order:
+
+```python
+sorted_groups = group_sizes.sort_values(ascending=False)
+```
+
+3.  Use the `head` method to extract the top 20 categories:
+
+```python
+top_20 = sorted_groups.head(20)
+```
+
+4.  Use the `isin` method to filter the original DataFrame to only include rows with the top 20 categories:
+
+```python
+df_filtered = df[df['category'].isin(top_20.index)]
+```
+
+This will extract the top 20 categories from the ‘category’ column of the DataFrame and create a new DataFrame that only includes rows with those categories.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/regex.md",
+                "file": "PSY/LetterToMyself.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a325d42e464def1c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/regex.md",
+                "file": "PSY/LetterToMyself.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/regex.md",
+                "file": "PSY/LetterToMyself.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/regex.md"
+                "file": "PSY/LetterToMyself.md"
               }
             }
           }
@@ -149,10 +150,6 @@
   },
   "active": "a75598f1f5d68111",
   "lastOpenFiles": [
-    "Python/regex-DESKTOP-20IUT10.md",
-    "Python/regex.md",
-    "Python/DataFrame.md",
-    "Python/Scrap.md",
     "ML/basic.md",
     "Shader/SemanticSegmentation.md",
     "Shader/SemanticSegmentation.md.partial",
@@ -161,6 +158,8 @@
     "Git/submodule.md",
     "Git/Repository.md",
     "Git/basic.md",
+    "Python/DataFrame.md",
+    "Python/regex.md",
     "linux/WM.md",
     "WoodOxen/WeeklyProgress/m1.md",
     "linux/ssh.md",
@@ -177,6 +176,8 @@
     "AI/GPT/app.md",
     "template/ProgressReport.md",
     "XbortPark/Lecture/March21.md",
+    "Python/Scrap.md",
+    "DynamicProgramming/basic.md",
     "DynamicProgramming",
     "WoodOxen/WeeklyProgress/img/m1/inspector.png",
     "WoodOxen/WeeklyProgress/m1.md.partial",
