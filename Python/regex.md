@@ -2,7 +2,9 @@
 id: "regex"
 aliases:
   - "Syntax"
-tags: []
+tags:
+  - "python"
+  - "regex"
 ---
 
 <!--toc:start-->

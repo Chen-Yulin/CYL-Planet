@@ -5,6 +5,7 @@ aliases:
 tags:
   - "dataframe"
   - "python"
+  - "pandas"
 ---
 
 <!--toc:start-->
