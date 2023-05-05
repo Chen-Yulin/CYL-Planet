@@ -11,8 +11,12 @@
             "id": "a75598f1f5d68111",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/sklearn.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#LinearAlgebra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/sklearn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/sklearn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/sklearn.md"
+              }
             }
           }
         ],
@@ -141,10 +149,6 @@
   },
   "active": "a75598f1f5d68111",
   "lastOpenFiles": [
-    "Unity/Prefab.md",
-    "linux/basic.md",
-    "ML/basic.md",
-    "linux/ssh.md",
     "Python/regex.md",
     "Python/DataFrame.md",
     "PSY/MessageToMyself.md",
@@ -157,6 +161,7 @@
     "PSY/Learning.md",
     "Python/regex-DESKTOP-20IUT10.md",
     "Python/Scrap.md",
+    "ML/basic.md",
     "Shader/SemanticSegmentation.md",
     "Shader/SemanticSegmentation.md.partial",
     "Shader",
@@ -166,9 +171,12 @@
     "Git/basic.md",
     "linux/WM.md",
     "WoodOxen/WeeklyProgress/m1.md",
+    "linux/ssh.md",
+    "linux/basic.md",
     "AI/GPT/method.md",
     "Math/LinearAlgebra.md",
     "nvim/stdpath.md",
+    "nvim/InterestingPlugin.md",
     "DynamicProgramming",
     "WoodOxen/WeeklyProgress/img/m1/inspector.png",
     "WoodOxen/WeeklyProgress/m1.md.partial",

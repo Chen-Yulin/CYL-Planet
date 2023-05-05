@@ -11,6 +11,11 @@ tags:
   - [For .deb](#for-deb)
   - [For .AppImage](#for-appimage)
 - [Fix package](#fix-package)
+- [Manage process](#manage-process)
+- [Useful command](#useful-command)
+  - [grep](#grep)
+    - [option](#option)
+    - [Example](#example)
 <!--toc:end-->
 
 # Install package
@@ -47,4 +52,24 @@ pgrep [partial name]
  ```bash
 kill [pid]
  ```
+
+# Useful command
+## grep
+Search for confirmed strings in file
+```bash
+grep [option] [pattern] [file]
+```
+### option
+- -i: ignore capitalizing
+- -v: inverse search
+- -n: show the line num
+- -f: reveral search of files in folder
+- -i: only print the name od file
+- -c: only print the line num
+
+### Example
+display the battery percentage
+```bash
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep percentage
+```
 
