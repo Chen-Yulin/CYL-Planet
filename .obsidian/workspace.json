@@ -14,8 +14,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "3d0a09ab6d11e374",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,6 +67,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b43db78cd583cec2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -139,9 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a75598f1f5d68111",
+  "active": "3d0a09ab6d11e374",
   "lastOpenFiles": [
+    "TOEFL/SpeechRater.md",
+    "PSY/Emotion&Motivation.md",
+    "PSY/Learning.md",
     "Unity/Prefab.md",
+    "WoodOxen/UnityRef.md",
     "linux/basic.md",
     "ML/basic.md",
     "linux/ssh.md",
@@ -149,12 +170,10 @@
     "Python/DataFrame.md",
     "PSY/MessageToMyself.md",
     "PSY/Health&Well-Being.md",
-    "PSY/Emotion&Motivation.md",
     "AI/AIGC/March24.md",
     "SQL/pandas.md",
     "SQL/basic.md",
     "PSY/LetterToMyself.md",
-    "PSY/Learning.md",
     "Python/regex-DESKTOP-20IUT10.md",
     "Python/Scrap.md",
     "Shader/SemanticSegmentation.md",
@@ -167,8 +186,6 @@
     "linux/WM.md",
     "WoodOxen/WeeklyProgress/m1.md",
     "AI/GPT/method.md",
-    "Math/LinearAlgebra.md",
-    "nvim/stdpath.md",
     "DynamicProgramming",
     "WoodOxen/WeeklyProgress/img/m1/inspector.png",
     "WoodOxen/WeeklyProgress/m1.md.partial",
