@@ -1,13 +1,15 @@
 ---
-id: "basic"
+id: basic
 aliases:
-  - "Types"
-  - "Reference"
+  - Types
+  - Reference
 tags:
-  - "ML"
-  - "supervised-learning"
-  - "unsupervised-learning"
-  - "reinforcement-learning"
+  - ML
+  - supervised-learning
+  - unsupervised-learning
+  - reinforcement-learning
+date:
+  - 2023-05-09 21:58:07
 ---
 
 <!--toc:start-->

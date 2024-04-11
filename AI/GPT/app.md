@@ -1,11 +1,13 @@
 ---
-id: "app"
+id: app
 aliases:
-  - "BibiGPT"
+  - BibiGPT
 tags:
-  - "AI"
-  - "GPT"
-  - "app"
+  - AI
+  - GPT
+  - app
+date:
+  - 2023-05-09 21:58:07
 ---
 
 # BibiGPT

@@ -1,10 +1,12 @@
 ---
-id: "Repository"
+id: Repository
 aliases:
-  - "Add remote repository"
+  - Add remote repository
 tags:
-  - "git"
-  - "repository"
+  - git
+  - repository
+date:
+  - 2023-05-09 21:58:07
 ---
 
 <!--toc:start-->

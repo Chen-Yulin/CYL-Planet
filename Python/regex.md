@@ -1,10 +1,12 @@
 ---
-id: "regex"
+id: regex
 aliases:
-  - "Syntax"
+  - Syntax
 tags:
-  - "python"
-  - "regex"
+  - python
+  - regex
+date:
+  - 2023-05-09 21:58:07
 ---
 
 <!--toc:start-->

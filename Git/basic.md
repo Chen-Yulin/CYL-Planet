@@ -1,9 +1,11 @@
 ---
-id: "basic"
+id: basic
 aliases:
-  - "Game"
+  - Game
 tags:
-  - "git"
+  - git
+date:
+  - 2023-05-09 21:58:07
 ---
 
 # Game

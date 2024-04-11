@@ -1,10 +1,12 @@
 ---
-id: "app"
+id: app
 aliases:
-  - "Fmail"
+  - Fmail
 tags:
-  - "app"
-  - "idea"
+  - app
+  - idea
+date:
+  - 2023-05-09 21:58:07
 ---
 
 # Fmail

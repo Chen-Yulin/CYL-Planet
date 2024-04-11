@@ -1,12 +1,14 @@
 ---
-id: "Emotion&Motivation"
+id: Emotion&Motivation
 aliases:
-  - "Motivation"
-  - "Relationship"
+  - Motivation
+  - Relationship
 tags:
-  - "PSY"
-  - "motivation"
-  - "emotion"
+  - PSY
+  - motivation
+  - emotion
+date:
+  - 2023-05-09 21:58:07
 ---
 # Relationship
 [Prime theory: An integrated view of motivation and emotion](https://psycnet.apa.org/record/1985-29964-001)

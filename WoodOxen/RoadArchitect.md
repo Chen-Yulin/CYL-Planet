@@ -1,9 +1,11 @@
 ---
-id: "RoadArchitect"
+id: RoadArchitect
 aliases:
-  - "Trouble shooting"
+  - Trouble shooting
 tags:
-  - "Unity"
+  - Unity
+date:
+  - 2023-05-09 21:58:07
 ---
 
 # Trouble shooting

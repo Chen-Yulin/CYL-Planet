@@ -1,11 +1,13 @@
 ---
-id: "DataFrame"
+id: DataFrame
 aliases:
-  - "Creating a DataFrame"
+  - Creating a DataFrame
 tags:
-  - "dataframe"
-  - "python"
-  - "pandas"
+  - dataframe
+  - python
+  - pandas
+date:
+  - 2023-05-09 21:58:07
 ---
 
 <!--toc:start-->

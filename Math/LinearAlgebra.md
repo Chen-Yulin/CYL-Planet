@@ -1,10 +1,12 @@
 ---
-id: "LinearAlgebra"
+id: LinearAlgebra
 aliases:
-  - "Book"
+  - Book
 tags:
-  - "math"
-  - "LinearAlgebra"
+  - math
+  - LinearAlgebra
+date:
+  - 2023-05-09 21:58:07
 ---
 
 # Book

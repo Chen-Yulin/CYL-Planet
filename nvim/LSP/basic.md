@@ -1,10 +1,12 @@
 ---
-id: "basic"
+id: basic
 aliases:
-  - "LSP install location"
+  - LSP install location
 tags:
-  - "mason"
-  - "LSP"
+  - mason
+  - LSP
+date:
+  - 2023-05-09 21:58:07
 ---
 
 <!--toc:start-->

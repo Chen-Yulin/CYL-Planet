@@ -2,8 +2,8 @@
   "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "Spectrum",
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "interfaceFontFamily": "Comic Sans MS",
-  "textFontFamily": "Comic Sans MS",
-  "monospaceFontFamily": "Noto Sans Mono CJK HK,FuraMono Nerd Font Mono"
+  "textFontFamily": "FuraMono Nerd Font Mono,Comic Sans MS",
+  "monospaceFontFamily": "FuraMono Nerd Font Mono"
 }

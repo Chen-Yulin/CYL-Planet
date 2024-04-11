@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "4ae9d72cd3810768",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb2df08e2f824c94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a75598f1f5d68111",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb84760105e1b8a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPP_Robot_Motion_Planning/Human motion prediction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "300287ebb4be9da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postgraduate recommendation/Summer Camp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bedc6bdcf58d16f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d89a908dd8f15ffa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fbde12725489020",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26263495ce0558c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#LinearAlgebra",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "effccacf52f11c96",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5daf28f440f77f8a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a325d42e464def1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "951e75fd784b2f55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02d0f6039bd6ae08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Postgraduate recommendation/Summer Camp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d4ff552aa3b7f42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Postgraduate recommendation/Summer Camp.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bc1fe5c5ed026e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "40e7d608a76e1b10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Postgraduate recommendation/Summer Camp.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "300287ebb4be9da3",
+  "lastOpenFiles": [
+    "nvim/LSP/config.md",
+    "nvim/LSP/basic.md",
+    "Postgraduate recommendation/Summer Camp.md",
+    "IPP_Robot_Motion_Planning/Human motion prediction.md",
+    "QuantumInformation/basic.md",
+    "PSY/MessageToMyself.md",
+    "PSY/Emotion&Motivation.md",
+    "PSY/Health&Well-Being.md",
+    "PSY/Learning.md",
+    "nvim/stdpath.md",
+    "nvim/InterestingPlugin.md",
+    "Untitled.md",
+    "Postgraduate recommendation",
+    "[Human3.6M.md",
+    "DynamicProgramming/basic.md",
+    "Git/basic.md",
+    "TOEFL/SpeechRater.md",
+    "SQL/basic.md",
+    "SmartCity/autonomousDriving.md",
+    "ML/basic.md",
+    "linux/basic.md",
+    "Idea/app.md",
+    "EmbededSystem/basic.md",
+    "Git/Version.md",
+    "linux/ssh.md",
+    "Git/submodule.md",
+    "Git/Repository.md",
+    "IPP_Robot_Motion_Planning",
+    "WoodOxen/WeeklyProgress/img/m1/inspector.png",
+    "Shader/SemanticSegmentation.md.partial",
+    "Shader",
+    "DynamicProgramming",
+    "WoodOxen/WeeklyProgress/m1.md.partial",
+    "WoodOxen/WeeklyProgress/img/m1/1((SN8FBSFY22~E0PS9_377.png",
+    "WoodOxen/WeeklyProgress/img/m1",
+    "WoodOxen/WeeklyProgress/img/新建文件夹",
+    "WoodOxen/WeeklyProgress/img/1((SN8FBSFY22~E0PS9_377.png",
+    "WoodOxen/WeeklyProgress/img",
+    "WoodOxen/WeeklyProgress/新建文件夹",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

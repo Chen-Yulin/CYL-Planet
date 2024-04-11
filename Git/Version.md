@@ -1,10 +1,12 @@
 ---
-id: "Version"
+id: Version
 aliases:
-  - "check commit history"
+  - check commit history
 tags:
-  - "git"
-  - "version-management"
+  - git
+  - version-management
+date:
+  - 2023-05-09 21:58:07
 ---
 
 <!--toc:start-->

@@ -1,10 +1,12 @@
 ---
-id: "SpeechRater"
+id: SpeechRater
 aliases:
-  - "TOEFL SPEECH"
+  - TOEFL SPEECH
 tags:
-  - "TOEFL"
-  - "oral"
+  - TOEFL
+  - oral
+date:
+  - 2023-05-09 21:58:07
 ---
 
 # TOEFL SPEECH

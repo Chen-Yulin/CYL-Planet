@@ -1,11 +1,13 @@
 ---
-id: "pandas"
+id: pandas
 aliases:
-  - "Environment"
+  - Environment
 tags:
-  - "SQL"
-  - "pandas"
-  - "python"
+  - SQL
+  - pandas
+  - python
+date:
+  - 2023-05-09 21:58:07
 ---
 
 <!--toc:start-->

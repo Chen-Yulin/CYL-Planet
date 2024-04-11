@@ -1,9 +1,11 @@
 ---
-id: "basic"
+id: basic
 aliases:
-  - "Practicing website"
+  - Practicing website
 tags:
-  - "SQL"
+  - SQL
+date:
+  - 2023-05-09 21:58:07
 ---
 
 # Practicing website

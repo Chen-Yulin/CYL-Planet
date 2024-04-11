@@ -1,12 +1,14 @@
 ---
-id: "method"
+id: method
 aliases:
-  - "现象确认"
-  - "Use GPT to write paper"
+  - 现象确认
+  - Use GPT to write paper
 tags:
-  - "GPT"
-  - "AI"
-  - "Method"
+  - GPT
+  - AI
+  - Method
+date:
+  - 2023-05-09 21:58:07
 ---
 <!--toc:start-->
 - [Use GPT to write paper](#use-gpt-to-write-paper)

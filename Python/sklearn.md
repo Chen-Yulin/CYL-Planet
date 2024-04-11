@@ -1,11 +1,13 @@
 ---
-id: "sklearn"
+id: sklearn
 aliases:
-  - "Some basic operation"
+  - Some basic operation
 tags:
-  - "python"
-  - "sklearn"
-  - "numpy"
+  - python
+  - sklearn
+  - numpy
+date:
+  - 2023-05-09 21:58:07
 ---
 
 # Some basic operation

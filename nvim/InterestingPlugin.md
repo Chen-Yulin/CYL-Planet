@@ -1,12 +1,14 @@
 ---
-id: "InterestingPlugin"
+id: InterestingPlugin
 aliases:
-  - "Magma"
-  - "Python related"
+  - Magma
+  - Python related
 tags:
-  - "nvim"
-  - "plugin"
-  - "python"
+  - nvim
+  - plugin
+  - python
+date:
+  - 2023-05-09 21:58:07
 ---
 
 

@@ -1,10 +1,12 @@
 ---
-id: "SemanticSegmentation"
+id: SemanticSegmentation
 aliases:
-  - "如何使用Shader实现语义分割"
+  - 如何使用Shader实现语义分割
 tags:
-  - "Unity"
-  - "Shader"
+  - Unity
+  - Shader
+date:
+  - 2023-05-09 21:58:07
 ---
 
 <!--toc:start-->

@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "eb2df08e2f824c94",
+        "id": "5ade6ff58f1a8390",
         "type": "tabs",
         "children": [
           {
-            "id": "a75598f1f5d68111",
+            "id": "dc57bc4c2b5032ab",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d0a09ab6d11e374",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "星空读书会/《吾国与吾民》读书会p2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#LinearAlgebra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +66,7 @@
             }
           },
           {
-            "id": "b43db78cd583cec2",
+            "id": "5daf28f440f77f8a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 371.50868225097656
   },
   "right": {
     "id": "a325d42e464def1c",
@@ -98,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "星空读书会/《吾国与吾民》读书会p2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "星空读书会/《吾国与吾民》读书会p2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +132,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "星空读书会/《吾国与吾民》读书会p2.md"
+              }
+            }
+          },
+          {
+            "id": "fb5251e4624e16a0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ],
@@ -156,48 +167,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d0a09ab6d11e374",
+  "active": "dc57bc4c2b5032ab",
   "lastOpenFiles": [
-    "TOEFL/SpeechRater.md",
-    "PSY/Emotion&Motivation.md",
-    "PSY/Learning.md",
-    "Unity/Prefab.md",
-    "WoodOxen/UnityRef.md",
-    "linux/basic.md",
-    "ML/basic.md",
-    "linux/ssh.md",
-    "Python/regex.md",
-    "Python/DataFrame.md",
+    "星空读书会/《吾国与吾民》读书会p2.md",
+    "星空读书会/《雕刻时光》读书会p1.md",
+    "AI/Amazon Echo Alexa persuade people to commit suicide.md",
+    "template/Note.md",
+    "星空读书会/《少有人走的路》.md",
+    "template/Reading.md",
+    "template/Normal.md",
     "PSY/MessageToMyself.md",
-    "PSY/Health&Well-Being.md",
+    "星空读书会",
+    "PSY/Learning.md",
+    "PSY/Emotion&Motivation.md",
+    "辩论/如果你知道别人的死亡时间，你会告诉ta吗.md",
+    "AI/Wechat bot.md",
     "AI/AIGC/March24.md",
-    "SQL/pandas.md",
-    "SQL/basic.md",
-    "PSY/LetterToMyself.md",
-    "Python/regex-DESKTOP-20IUT10.md",
-    "Python/Scrap.md",
-    "Shader/SemanticSegmentation.md",
-    "Shader/SemanticSegmentation.md.partial",
-    "Shader",
-    "Git/Version.md",
-    "Git/submodule.md",
-    "Git/Repository.md",
-    "Git/basic.md",
-    "linux/WM.md",
     "WoodOxen/WeeklyProgress/m1.md",
-    "AI/GPT/method.md",
-    "DynamicProgramming",
     "WoodOxen/WeeklyProgress/img/m1/inspector.png",
-    "WoodOxen/WeeklyProgress/m1.md.partial",
-    "WoodOxen/WeeklyProgress/img/m1/1((SN8FBSFY22~E0PS9_377.png",
-    "WoodOxen/WeeklyProgress/img/m1",
-    "WoodOxen/WeeklyProgress/img/新建文件夹",
-    "WoodOxen/WeeklyProgress/img/1((SN8FBSFY22~E0PS9_377.png",
-    "WoodOxen/WeeklyProgress/img",
-    "WoodOxen/WeeklyProgress/新建文件夹",
-    "Math",
-    "AI/AIGC",
+    "辩论/人间一趟，心无挂碍vs心有所属更值得.md",
+    "辩论/自动驾驶遇到危险时，乘客保护优先vs行人保护优先.md",
+    "AI/GPT/app.md",
+    "AI/GPT/method.md",
+    "hexo/Customize hexo Icarus.md",
+    "linux/ssh.md",
+    "linux/basic.md",
+    "PSY/Health&Well-Being.md",
+    "goal.md",
+    "Idea/app.md",
+    "Git/submodule.md",
+    "Git/Version.md",
+    "hexo",
+    "Pasted image 20231223182758.png",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
     "Untitled.canvas",
-    "Untitled 1.canvas"
+    "辩论/Untitled",
+    "辩论/人间一趟，心无挂碍vs心有所属更值得.md.partial",
+    "nvim/stdpath.md.partial",
+    "AR",
+    "辩论",
+    "MCMICM",
+    "ROS",
+    "Start-up",
+    "WoodOxen/WeeklyProgress/img/m1/1((SN8FBSFY22~E0PS9_377.png",
+    "WoodOxen/WeeklyProgress/img/1((SN8FBSFY22~E0PS9_377.png"
   ]
 }

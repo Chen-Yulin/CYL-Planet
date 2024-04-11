@@ -1,14 +1,16 @@
 ---
-id: "Learning"
+id: Learning
 aliases:
-  - "developing of behaviour"
-  - "Learning"
-  - "Learning's school of thoughts"
-  - "Reference"
+  - developing of behaviour
+  - Learning
+  - Learning's school of thoughts
+  - Reference
 tags:
-  - "Behaviorism"
-  - "Humanism"
-  - "PSY"
+  - Behaviorism
+  - Humanism
+  - PSY
+date:
+  - 2023-05-09 21:58:07
 ---
 
 <!--toc:start-->

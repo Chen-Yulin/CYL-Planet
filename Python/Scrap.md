@@ -1,12 +1,14 @@
 ---
-id: "Scrap"
+id: Scrap
 aliases:
-  - "Beautiful Soup"
+  - Beautiful Soup
 tags:
-  - "python"
-  - "scrap"
-  - "html"
-  - "bs4"
+  - python
+  - scrap
+  - html
+  - bs4
+date:
+  - 2023-05-09 21:58:07
 ---
 
 <!--toc:start-->

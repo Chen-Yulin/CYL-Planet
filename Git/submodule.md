@@ -1,10 +1,12 @@
 ---
-id: "submodule"
+id: submodule
 aliases:
-  - "What is a Git submodule?"
+  - What is a Git submodule?
 tags:
-  - "git"
-  - "submodule"
+  - git
+  - submodule
+date:
+  - 2023-05-09 21:58:07
 ---
 
 ## What is a Git submodule?

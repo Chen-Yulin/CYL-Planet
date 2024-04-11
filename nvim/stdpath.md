@@ -1,9 +1,11 @@
 ---
-id: "stdpath"
-aliases: []
+id: stdpath
+aliases: 
 tags:
-  - "nvim"
-  - "path"
+  - nvim
+  - path
+date:
+  - 2023-05-09 21:58:07
 ---
 
 In nvim:

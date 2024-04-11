@@ -1,10 +1,12 @@
 ---
-id: "config"
+id: config
 aliases:
-  - "LSP Config Reference"
+  - LSP Config Reference
 tags:
-  - "nvim"
-  - "LSP"
+  - nvim
+  - LSP
+date:
+  - 2023-05-09 21:58:07
 ---
 
 # LSP Config Reference

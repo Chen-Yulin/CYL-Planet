@@ -1,10 +1,12 @@
 ---
-id: "UnityRef"
+id: UnityRef
 aliases:
-  - "Vehicle Dynamics"
+  - Vehicle Dynamics
 tags:
-  - "Unity"
-  - "reference"
+  - Unity
+  - reference
+date:
+  - 2023-05-09 21:58:07
 ---
 
 ## Vehicle Dynamics

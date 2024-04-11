@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "4ae9d72cd3810768",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb2df08e2f824c94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a75598f1f5d68111",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d0a09ab6d11e374",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bedc6bdcf58d16f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d89a908dd8f15ffa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fbde12725489020",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26263495ce0558c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#LinearAlgebra",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "effccacf52f11c96",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b43db78cd583cec2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a325d42e464def1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "951e75fd784b2f55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02d0f6039bd6ae08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d4ff552aa3b7f42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bc1fe5c5ed026e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "40e7d608a76e1b10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3d0a09ab6d11e374",
+  "lastOpenFiles": [
+    "TOEFL/SpeechRater.md",
+    "PSY/Emotion&Motivation.md",
+    "PSY/Learning.md",
+    "Unity/Prefab.md",
+    "WoodOxen/UnityRef.md",
+    "linux/basic.md",
+    "ML/basic.md",
+    "linux/ssh.md",
+    "Python/regex.md",
+    "Python/DataFrame.md",
+    "PSY/MessageToMyself.md",
+    "PSY/Health&Well-Being.md",
+    "AI/AIGC/March24.md",
+    "SQL/pandas.md",
+    "SQL/basic.md",
+    "PSY/LetterToMyself.md",
+    "Python/regex-DESKTOP-20IUT10.md",
+    "Python/Scrap.md",
+    "Shader/SemanticSegmentation.md",
+    "Shader/SemanticSegmentation.md.partial",
+    "Shader",
+    "Git/Version.md",
+    "Git/submodule.md",
+    "Git/Repository.md",
+    "Git/basic.md",
+    "linux/WM.md",
+    "WoodOxen/WeeklyProgress/m1.md",
+    "AI/GPT/method.md",
+    "DynamicProgramming",
+    "WoodOxen/WeeklyProgress/img/m1/inspector.png",
+    "WoodOxen/WeeklyProgress/m1.md.partial",
+    "WoodOxen/WeeklyProgress/img/m1/1((SN8FBSFY22~E0PS9_377.png",
+    "WoodOxen/WeeklyProgress/img/m1",
+    "WoodOxen/WeeklyProgress/img/新建文件夹",
+    "WoodOxen/WeeklyProgress/img/1((SN8FBSFY22~E0PS9_377.png",
+    "WoodOxen/WeeklyProgress/img",
+    "WoodOxen/WeeklyProgress/新建文件夹",
+    "Math",
+    "AI/AIGC",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

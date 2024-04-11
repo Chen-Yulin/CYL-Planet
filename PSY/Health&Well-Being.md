@@ -1,12 +1,14 @@
 ---
-id: "Health&Well-Being"
+id: Health&Well-Being
 aliases:
-  - "Muddy Points"
-  - "Big Question"
+  - Muddy Points
+  - Big Question
 tags:
-  - "PSY"
-  - "well-being"
-  - "health"
+  - PSY
+  - well-being
+  - health
+date:
+  - 2023-05-09 21:58:07
 ---
 
 ## Big Question

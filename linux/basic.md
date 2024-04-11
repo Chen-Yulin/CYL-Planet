@@ -1,9 +1,11 @@
 ---
-id: "basic"
+id: basic
 aliases:
-  - "Install package"
+  - Install package
 tags:
-  - "linux"
+  - linux
+date:
+  - 2023-05-09 21:58:07
 ---
 
 <!--toc:start-->

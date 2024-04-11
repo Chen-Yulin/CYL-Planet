@@ -1,9 +1,11 @@
 ---
-id: "LetterToMyself"
+id: LetterToMyself
 aliases:
-  - "Notice"
+  - Notice
 tags:
-  - "PSY"
+  - PSY
+date:
+  - 2023-05-09 21:58:07
 ---
 # A Message to Myself
 hi, how are you doing today?

@@ -1,9 +1,11 @@
 ---
-id: "Prefab"
-aliases:
+id: Prefab
+aliases: 
 tags:
-  - "Unity"
-  - "Prefab"
+  - Unity
+  - Prefab
+date:
+  - 2023-05-09 21:58:07
 ---
 
 # Prefabs in Unity

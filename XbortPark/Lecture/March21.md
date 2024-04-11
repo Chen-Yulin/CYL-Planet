@@ -1,13 +1,15 @@
 ---
-id: "March21"
+id: March21
 aliases:
-  - "meeting record"
-  - "Lecture content"
+  - meeting record
+  - Lecture content
 tags:
-  - "PHD"
-  - "start-business"
-  - "operational-ability"
-  - "academic-ability"
+  - PHD
+  - start-business
+  - operational-ability
+  - academic-ability
+date:
+  - 2023-05-09 21:58:07
 ---
 
 <!--toc:start-->

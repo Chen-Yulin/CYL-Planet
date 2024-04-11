@@ -1,10 +1,12 @@
 ---
-id: "basic"
+id: basic
 aliases:
-  - "Step"
+  - Step
 tags:
-  - "dynamic-programmming"
-  - "recursive"
+  - dynamic-programmming
+  - recursive
+date:
+  - 2023-05-09 21:58:07
 ---
 
 <!--toc:start-->

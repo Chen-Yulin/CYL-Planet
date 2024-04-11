@@ -1,11 +1,13 @@
 ---
-id: "March24"
+id: March24
 aliases:
-  - "Meeting"
+  - Meeting
 tags:
-  - "AI"
-  - "AIGC"
-  - "meeting"
+  - AI
+  - AIGC
+  - meeting
+date:
+  - 2023-05-09 21:58:07
 ---
 
 # Meeting

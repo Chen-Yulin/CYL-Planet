@@ -1,8 +1,10 @@
 ---
-id: "goal"
+id: goal
 aliases:
-  - "Maintain my website"
-tags: []
+  - Maintain my website
+date:
+  - 2023-05-09 21:58:07
+tags:
 ---
 
 # Maintain my website
