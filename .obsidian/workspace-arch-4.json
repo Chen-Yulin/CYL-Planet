@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "c4eec4ed1b0c5a0d",
+    "id": "4ae9d72cd3810768",
     "type": "split",
     "children": [
       {
-        "id": "e96293085c403fbd",
+        "id": "5ade6ff58f1a8390",
         "type": "tabs",
         "children": [
           {
-            "id": "451ef1a8103e931f",
+            "id": "dc57bc4c2b5032ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "剪辑/Mod 猫meme CUT1 Script.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02fa77ab8dbdfc2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "剪辑/Mod 猫meme CUT1 Script.md",
+                "file": "Shell/Automate OpenROAD testing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "19f05d900f6434fe",
+    "id": "4bedc6bdcf58d16f",
     "type": "split",
     "children": [
       {
-        "id": "35a9e942cff74e27",
+        "id": "d89a908dd8f15ffa",
         "type": "tabs",
         "children": [
           {
-            "id": "67ef8ed3efcd3633",
+            "id": "4fbde12725489020",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "ef1661ee1dbf4713",
+            "id": "26263495ce0558c5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,15 @@
             }
           },
           {
-            "id": "39905446f8afb0d6",
+            "id": "effccacf52f11c96",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5daf28f440f77f8a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 371.50868225097656
   },
   "right": {
-    "id": "918a58e7ec52403d",
+    "id": "a325d42e464def1c",
     "type": "split",
     "children": [
       {
-        "id": "f30148cc9f501422",
+        "id": "951e75fd784b2f55",
         "type": "tabs",
         "children": [
           {
-            "id": "bf12b997e681306d",
+            "id": "02d0f6039bd6ae08",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "剪辑/Mod 猫meme CUT1 Script.md",
+                "file": "Shell/Automate OpenROAD testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,30 +105,40 @@
             }
           },
           {
-            "id": "f7cf827b9466ee19",
+            "id": "7d4ff552aa3b7f42",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "剪辑/Mod 猫meme CUT1 Script.md",
+                "file": "Shell/Automate OpenROAD testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "aeb71669a24d5fd4",
+            "id": "7bc1fe5c5ed026e2",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "79073a5523e6a334",
+            "id": "40e7d608a76e1b10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Shell/Automate OpenROAD testing.md"
+              }
+            }
+          },
+          {
+            "id": "fb5251e4624e16a0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -143,22 +148,13 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "a3673726bb3083cb",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "剪辑/Mod 猫meme CUT1 Script.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -171,28 +167,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02fa77ab8dbdfc2c",
+  "active": "dc57bc4c2b5032ab",
   "lastOpenFiles": [
-    "EmbededSystem/STM32 Development on Linux.md",
-    "剪辑/Mod 猫meme CUT1 Script.md",
-    "Git/Repository.md",
-    "剪辑",
-    "Git/basic.md",
-    "Git/merge.md",
-    "Git/submodule.md",
-    "Travel/2024 心怡姐姐22岁生日！出来玩大作战！.md",
-    "Travel/2023 Christmas.md",
-    "星空读书会/《中国太阳》读书会p5.md",
-    "Pasted image 20231223182758.png",
-    "Pasted image 20240525010739.png",
-    "咖喱二三事.md",
-    "linux/Copy-Paste in Hyprland across Wayland & XWayland.md",
+    "星空读书会/《边城》读书会p3.md",
+    "Shell/Automate OpenROAD testing.md",
+    "星空读书会/《吾国与吾民》读书会p2.md",
+    "星空读书会/《雕刻时光》读书会p1.md",
+    "Mod/ONI/ONI Modding.md",
+    "nvim/LSP/config.md",
+    "Mod/ONI",
+    "Mod",
+    "AI/Amazon Echo Alexa persuade people to commit suicide.md",
+    "template/Note.md",
+    "星空读书会/《少有人走的路》.md",
+    "template/Reading.md",
+    "template/Normal.md",
+    "PSY/MessageToMyself.md",
+    "星空读书会",
+    "PSY/Learning.md",
+    "PSY/Emotion&Motivation.md",
+    "辩论/如果你知道别人的死亡时间，你会告诉ta吗.md",
+    "AI/Wechat bot.md",
+    "AI/AIGC/March24.md",
+    "WoodOxen/WeeklyProgress/m1.md",
+    "WoodOxen/WeeklyProgress/img/m1/inspector.png",
+    "辩论/人间一趟，心无挂碍vs心有所属更值得.md",
+    "辩论/自动驾驶遇到危险时，乘客保护优先vs行人保护优先.md",
+    "AI/GPT/app.md",
+    "AI/GPT/method.md",
+    "hexo/Customize hexo Icarus.md",
     "linux/ssh.md",
     "linux/basic.md",
-    "JustWork/JustWork 参考文档.md",
-    "JustWork/Game Principle of <JustWork>.md",
-    "EmbededSystem/basic.md",
-    "AI/Wechat bot.md",
-    "AI/Amazon Echo Alexa persuade people to commit suicide.md"
+    "PSY/Health&Well-Being.md",
+    "hexo",
+    "Pasted image 20231223182758.png",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "辩论/Untitled",
+    "辩论/人间一趟，心无挂碍vs心有所属更值得.md.partial",
+    "nvim/stdpath.md.partial",
+    "AR",
+    "辩论",
+    "MCMICM",
+    "WoodOxen/WeeklyProgress/img/m1/1((SN8FBSFY22~E0PS9_377.png",
+    "WoodOxen/WeeklyProgress/img/1((SN8FBSFY22~E0PS9_377.png"
   ]
 }
