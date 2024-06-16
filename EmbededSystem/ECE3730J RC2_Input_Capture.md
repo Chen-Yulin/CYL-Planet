@@ -181,3 +181,14 @@ void LCD_Display_Char(uchar Char, uchar x, uchar y) // 显示字符ASCII码
   LCD_Write_Data(Char);
 }
 ```
+
+
+## Demo
+...
+
+
+# Input Capture
+
+
+
+# Output Compare

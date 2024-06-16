@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EmbededSystem/ECE3730J RC2.md",
+                "file": "EmbededSystem/ECE3730J RC2_LCD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EmbededSystem/ECE3730J RC2.md",
+                "file": "EmbededSystem/ECE3730J RC2_LCD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EmbededSystem/ECE3730J RC2.md",
+                "file": "EmbededSystem/ECE3730J RC2_LCD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EmbededSystem/ECE3730J RC2.md"
+                "file": "EmbededSystem/ECE3730J RC2_LCD.md"
               }
             }
           }
@@ -160,10 +160,11 @@
   },
   "active": "6d7d42d9f8a8bacf",
   "lastOpenFiles": [
+    "EmbededSystem/ECE3730J RC2_Input_Capture.md",
+    "EmbededSystem/ECE3730J RC2_LCD.md",
     "EmbededSystem/img/Pasted image 20240616223239.png",
     "EmbededSystem/img/Pasted image 20240616222832.png",
     "EmbededSystem/STM32 Development on Linux.md",
-    "EmbededSystem/ECE3730J RC2.md",
     "EmbededSystem/basic.md",
     "EmbededSystem/img/Pasted image 20240616214538.png",
     "EmbededSystem/img/Pasted image 20240616220104.png",
@@ -183,7 +184,6 @@
     "Travel/2024 心怡姐姐22岁生日！出来玩大作战！.md",
     "Travel/2023 Christmas.md",
     "星空读书会/《中国太阳》读书会p5.md",
-    "Pasted image 20231223182758.png",
     "咖喱二三事.md",
     "linux/Copy-Paste in Hyprland across Wayland & XWayland.md",
     "linux/ssh.md",
