@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b656a73916e01f6d",
+        "id": "e96293085c403fbd",
         "type": "tabs",
         "children": [
           {
-            "id": "6d7d42d9f8a8bacf",
+            "id": "451ef1a8103e931f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EmbededSystem/ECE3730J RC2_LCD.md",
+                "file": "Git/Repository.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e395271f136f32c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Travel/2023 Christmas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EmbededSystem/ECE3730J RC2_LCD.md",
+                "file": "Travel/2023 Christmas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EmbededSystem/ECE3730J RC2_LCD.md",
+                "file": "Travel/2023 Christmas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EmbededSystem/ECE3730J RC2_LCD.md"
+                "file": "Travel/2023 Christmas.md"
               }
             }
           }
@@ -158,39 +171,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d7d42d9f8a8bacf",
+  "active": "8e395271f136f32c",
   "lastOpenFiles": [
-    "EmbededSystem/ECE3730J RC2_Input_Capture.md",
-    "EmbededSystem/ECE3730J RC2_LCD.md",
+    "星空读书会/《非暴力沟通》读书会p6.md",
+    "星空读书会/《边城》读书会p3.md",
+    "星空读书会/《窄门》读书会p7.md",
+    "星空读书会/《地下室手记》读书会p4.md",
+    "星空读书会/《中国太阳》读书会p5.md",
+    "如果哪天有幸接触乐器的话，一定要谈下面的曲子呀.md",
+    "咖喱二三事.md",
+    "剪辑/Mod 猫meme CUT1 Script.md",
+    "剪辑",
+    "template/杂记.md",
+    "philosophy/Matter of Life and Death.md",
+    "philosophy",
+    "linux/Copy-Paste in Hyprland across Wayland & XWayland.md",
+    "Shell/Automate OpenROAD testing.md",
+    "Mod/ONI/ONI Modding.md",
+    "Mod/ONI",
+    "Mod",
+    "JustWork/JustWork 参考文档.md",
+    "JustWork/Game Principle of JustWork.md",
+    "JustWork",
+    "Graduate Project.md",
     "EmbededSystem/img/Pasted image 20240616223239.png",
     "EmbededSystem/img/Pasted image 20240616222832.png",
-    "EmbededSystem/STM32 Development on Linux.md",
-    "EmbededSystem/basic.md",
-    "EmbededSystem/img/Pasted image 20240616214538.png",
     "EmbededSystem/img/Pasted image 20240616220104.png",
     "EmbededSystem/img/Pasted image 20240616215520.png",
+    "EmbededSystem/img/Pasted image 20240616214538.png",
     "EmbededSystem/img/Pasted image 20240616213009.png",
     "EmbededSystem/img/Pasted image 20240616212934.png",
     "EmbededSystem/img/Pasted image 20240616212637.png",
-    "剪辑/Mod 猫meme CUT1 Script.md",
     "EmbededSystem/img/Pasted image 20240616210515.png",
     "EmbededSystem/img/Pasted image 20240616202750.png",
     "EmbededSystem/img",
-    "Git/Repository.md",
-    "剪辑",
-    "Git/basic.md",
-    "Git/merge.md",
-    "Git/submodule.md",
-    "Travel/2024 心怡姐姐22岁生日！出来玩大作战！.md",
+    "EmbededSystem/STM32 Development on Linux.md",
+    "EmbededSystem/ECE3730J RC2_LCD.md",
+    "EmbededSystem/ECE3730J RC2_Input_Capture.md",
+    "Docusaurus.md",
+    "Computer Network/Unix Network Programming SRC.md",
+    "Computer Network",
     "Travel/2023 Christmas.md",
-    "星空读书会/《中国太阳》读书会p5.md",
-    "咖喱二三事.md",
-    "linux/Copy-Paste in Hyprland across Wayland & XWayland.md",
-    "linux/ssh.md",
-    "linux/basic.md",
-    "JustWork/JustWork 参考文档.md",
-    "JustWork/Game Principle of <JustWork>.md",
-    "AI/Wechat bot.md",
-    "AI/Amazon Echo Alexa persuade people to commit suicide.md"
+    "Travel/2024 心怡姐姐22岁生日！出来玩大作战！.md",
+    "XbortPark/Lecture/March21.md",
+    "EmbededSystem/basic.md",
+    "星空读书会/《雕刻时光》读书会p1.md"
   ]
 }
