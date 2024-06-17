@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travel/2023 Christmas.md",
+                "file": "EmbededSystem/ECE3730J RC2_LCD.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travel/2023 Christmas.md",
+                "file": "EmbededSystem/ECE3730J RC2_LCD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travel/2023 Christmas.md",
+                "file": "EmbededSystem/ECE3730J RC2_LCD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travel/2023 Christmas.md"
+                "file": "EmbededSystem/ECE3730J RC2_LCD.md"
               }
             }
           }
@@ -173,6 +173,10 @@
   },
   "active": "8e395271f136f32c",
   "lastOpenFiles": [
+    "EmbededSystem/ECE3730J RC2_Input_Capture.md",
+    "EmbededSystem/STM32 Development on Linux.md",
+    "EmbededSystem/ECE3730J RC2_LCD.md",
+    "Travel/2023 Christmas.md",
     "星空读书会/《非暴力沟通》读书会p6.md",
     "星空读书会/《边城》读书会p3.md",
     "星空读书会/《窄门》读书会p7.md",
@@ -205,13 +209,9 @@
     "EmbededSystem/img/Pasted image 20240616210515.png",
     "EmbededSystem/img/Pasted image 20240616202750.png",
     "EmbededSystem/img",
-    "EmbededSystem/STM32 Development on Linux.md",
-    "EmbededSystem/ECE3730J RC2_LCD.md",
-    "EmbededSystem/ECE3730J RC2_Input_Capture.md",
     "Docusaurus.md",
     "Computer Network/Unix Network Programming SRC.md",
     "Computer Network",
-    "Travel/2023 Christmas.md",
     "Travel/2024 心怡姐姐22岁生日！出来玩大作战！.md",
     "XbortPark/Lecture/March21.md",
     "EmbededSystem/basic.md",
