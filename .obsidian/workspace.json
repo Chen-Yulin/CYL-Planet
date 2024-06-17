@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EmbededSystem/ECE3730J RC2_LCD.md",
+                "file": "EmbededSystem/ECE3730J RC2_Output_Compare.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EmbededSystem/ECE3730J RC2_LCD.md",
+                "file": "EmbededSystem/ECE3730J RC2_Output_Compare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EmbededSystem/ECE3730J RC2_LCD.md",
+                "file": "EmbededSystem/ECE3730J RC2_Output_Compare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EmbededSystem/ECE3730J RC2_LCD.md"
+                "file": "EmbededSystem/ECE3730J RC2_Output_Compare.md"
               }
             }
           }
@@ -161,20 +161,21 @@
   "active": "6d7d42d9f8a8bacf",
   "lastOpenFiles": [
     "EmbededSystem/ECE3730J RC2_Input_Capture.md",
+    "EmbededSystem/ECE3730J RC2_Output_Compare.md",
     "EmbededSystem/ECE3730J RC2_LCD.md",
-    "EmbededSystem/img/Pasted image 20240616223239.png",
-    "EmbededSystem/img/Pasted image 20240616222832.png",
-    "EmbededSystem/STM32 Development on Linux.md",
+    "EmbededSystem/img/Pasted image 20240617160331.png",
+    "EmbededSystem/img/Pasted image 20240617155935.png",
+    "EmbededSystem/img/Pasted image 20240617155926.png",
+    "EmbededSystem/img/Pasted image 20240617155913.png",
     "EmbededSystem/basic.md",
-    "EmbededSystem/img/Pasted image 20240616214538.png",
-    "EmbededSystem/img/Pasted image 20240616220104.png",
-    "EmbededSystem/img/Pasted image 20240616215520.png",
-    "EmbededSystem/img/Pasted image 20240616213009.png",
-    "EmbededSystem/img/Pasted image 20240616212934.png",
-    "EmbededSystem/img/Pasted image 20240616212637.png",
+    "EmbededSystem/img/Pasted image 20240617155524.png",
+    "EmbededSystem/img/Pasted image 20240617154951.png",
+    "EmbededSystem/img/Pasted image 20240617154942.png",
+    "EmbededSystem/img/Pasted image 20240617154922.png",
+    "EmbededSystem/img/Pasted image 20240617154213.png",
+    "EmbededSystem/img/Pasted image 20240617154200.png",
+    "EmbededSystem/STM32 Development on Linux.md",
     "剪辑/Mod 猫meme CUT1 Script.md",
-    "EmbededSystem/img/Pasted image 20240616210515.png",
-    "EmbededSystem/img/Pasted image 20240616202750.png",
     "EmbededSystem/img",
     "Git/Repository.md",
     "剪辑",
