@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b656a73916e01f6d",
+        "id": "76c59a5b5b0f9b6f",
         "type": "tabs",
         "children": [
           {
-            "id": "6d7d42d9f8a8bacf",
+            "id": "9bc8bc7d3b457199",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EmbededSystem/ECE3730J RC2_Output_Compare.md",
+                "file": "EmbededSystem/ECE3730J RC2_LCD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42e4c80b5766ebc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EmbededSystem/ECE3730J RC3_LAB4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EmbededSystem/ECE3730J RC2_Output_Compare.md",
+                "file": "EmbededSystem/ECE3730J RC3_LAB4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EmbededSystem/ECE3730J RC2_Output_Compare.md",
+                "file": "EmbededSystem/ECE3730J RC3_LAB4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EmbededSystem/ECE3730J RC2_Output_Compare.md"
+                "file": "EmbededSystem/ECE3730J RC3_LAB4.md"
               }
             }
           }
@@ -158,23 +171,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d7d42d9f8a8bacf",
+  "active": "42e4c80b5766ebc7",
   "lastOpenFiles": [
-    "EmbededSystem/ECE3730J RC2_Input_Capture.md",
     "EmbededSystem/ECE3730J RC2_Output_Compare.md",
+    "EmbededSystem/ECE3730J RC3_LAB4.md",
+    "EmbededSystem/img/Pasted image 20240701152725.png",
+    "EmbededSystem/img/Pasted image 20240701152158.png",
+    "EmbededSystem/img/Pasted image 20240701152054.png",
+    "EmbededSystem/img/Pasted image 20240701151153.png",
+    "EmbededSystem/img/Pasted image 20240701144606.png",
+    "EmbededSystem/img/Pasted image 20240701143248.png",
     "EmbededSystem/ECE3730J RC2_LCD.md",
+    "EmbededSystem/ECE3730J RC2_Input_Capture.md",
+    "IPP_Robot_Motion_Planning/Human motion prediction.md",
+    "EmbededSystem/STM32 Development on Linux.md",
     "EmbededSystem/img/Pasted image 20240617160331.png",
     "EmbededSystem/img/Pasted image 20240617155935.png",
     "EmbededSystem/img/Pasted image 20240617155926.png",
     "EmbededSystem/img/Pasted image 20240617155913.png",
     "EmbededSystem/basic.md",
-    "EmbededSystem/img/Pasted image 20240617155524.png",
-    "EmbededSystem/img/Pasted image 20240617154951.png",
-    "EmbededSystem/img/Pasted image 20240617154942.png",
-    "EmbededSystem/img/Pasted image 20240617154922.png",
-    "EmbededSystem/img/Pasted image 20240617154213.png",
-    "EmbededSystem/img/Pasted image 20240617154200.png",
-    "EmbededSystem/STM32 Development on Linux.md",
     "剪辑/Mod 猫meme CUT1 Script.md",
     "EmbededSystem/img",
     "Git/Repository.md",

@@ -1,5 +1,5 @@
 ---
-id: ECE3730J RC2_LCD
+id: ECE3730J RC2
 tags:
   - Embeded-System
 date:
