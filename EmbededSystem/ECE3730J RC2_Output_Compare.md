@@ -1,5 +1,5 @@
 ---
-id: ECE3730J RC2_Output_Capture
+id: ECE3730J RC2_Output_Compare
 tags:
   - Embeded-System
 date:
