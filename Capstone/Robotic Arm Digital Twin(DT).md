@@ -21,27 +21,27 @@ categories:
 
 ## 模型外观
 
-![](static/FxkrbKwOGoAGYyxbrI5c3fDznSf.png)
+![](FxkrbKwOGoAGYyxbrI5c3fDznSf.png)
 
 三个模型资产，分别从
 
-![](static/WS7tbjlsUoS6rnxVOqYcmbwwnZe.png)
+![](WS7tbjlsUoS6rnxVOqYcmbwwnZe.png)
 
 导入。
 
 ## 碰撞箱
 
-![](static/Uzc6bSqj7o4sLxxHqq9cXwtjnif.png)
+![](Uzc6bSqj7o4sLxxHqq9cXwtjnif.png)
 
 主要由 capsule collider 构成。整个 DT 的 layer 属于 RobotArm
 
-![](static/MqcHbhjcJoOx1KxJohfcbMNJnyg.png)
+![](MqcHbhjcJoOx1KxJohfcbMNJnyg.png)
 
 ## 关节控制脚本
 
-![](static/AP80bWKhIogLuOx2yZ5cFW5WnPc.png)
+![](AP80bWKhIogLuOx2yZ5cFW5WnPc.png)
 
-![](static/K65ibGkOAoubFGxze8Cc0w15nlg.png)
+![](K65ibGkOAoubFGxze8Cc0w15nlg.png)
 
 挂载在 robotarm 物体上，用于控制各个关节旋转的角度
 

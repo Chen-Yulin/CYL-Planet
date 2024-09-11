@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capstone/项目框架.md",
+                "file": "星空读书会/《HOW MUSIC GOT FREE》读书会p8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6a8c75916000d69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "星空读书会/《倦怠社会》读书会p9.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318.5107650756836
   },
   "right": {
     "id": "918a58e7ec52403d",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capstone/项目框架.md",
+                "file": "星空读书会/《倦怠社会》读书会p9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capstone/项目框架.md",
+                "file": "星空读书会/《倦怠社会》读书会p9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capstone/项目框架.md"
+                "file": "星空读书会/《倦怠社会》读书会p9.md"
               }
             }
           }
@@ -158,46 +171,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67ef8ed3efcd3633",
+  "active": "c6a8c75916000d69",
   "lastOpenFiles": [
-    "hexo/Hexo plugin -- hexo-photo-wall.md",
-    "EmbededSystem/img/Pasted image 20240701152725.png",
-    "EmbededSystem/img/Pasted image 20240701152158.png",
-    "EmbededSystem/img/Pasted image 20240701152054.png",
-    "EmbededSystem/img/Pasted image 20240701151153.png",
-    "EmbededSystem/img/Pasted image 20240701144606.png",
-    "EmbededSystem/img/Pasted image 20240701143248.png",
-    "EmbededSystem/ECE3730J RC3_LAB4.md",
-    "Capstone/程序接口定义.md",
-    "Capstone/项目框架.md",
-    "Capstone/static/Mh5SbOFi4odvCoxSRLhcxYWBnde.png",
-    "Capstone/static/Z0rSbEGwPocdfvxH9IxcyqKbnKh.png",
-    "Capstone/Python-Unity Network.md",
-    "Capstone/Demo 设计.md",
-    "Capstone/static/TPgPb2GeyoqoDwxKDB2cXw3hnOd.png",
-    "Capstone/自定义 Gen6d 物体.md",
+    "星空读书会/《窄门》读书会p7.md",
+    "星空读书会/《HOW MUSIC GOT FREE》读书会p8.md",
+    "星空读书会/《倦怠社会》读书会p9.md",
+    "星空读书会/《中国太阳》读书会p5.md",
+    "星空读书会/《非暴力沟通》读书会p6.md",
+    "星空读书会/《雕刻时光》读书会p1.md",
+    "星空读书会/《边城》读书会p3.md",
+    "星空读书会/《地下室手记》读书会p4.md",
+    "星空读书会/《吾国与吾民》读书会p2.md",
+    "hexo/Hexo Comment System -- Twikoo.md",
+    "hexo/img/Pasted image 20240902223106.png",
+    "hexo/img/Pasted image 20240902215902.png",
+    "hexo/img/Pasted image 20240902215855.png",
+    "hexo/img/Pasted image 20240902215813.png",
+    "hexo/img/Pasted image 20240902215515.png",
+    "hexo/img/Pasted image 20240902214531.png",
+    "hexo/img",
     "Capstone/IK Path Planning.md",
-    "Capstone/夹爪控制方式.md",
+    "EmbededSystem/ECE3730J Final RC Part 1.md",
+    "Capstone/Python-Unity Network.md",
     "Capstone/Robotic Arm Digital Twin(DT).md",
-    "Capstone/6d pose -- unity coordinate.md",
-    "Capstone/6-D Pose Estimation Survey.md",
-    "Capstone/static/H74Jb6HIKodKjvxvHJGcvl1Vnrc.png",
-    "Git/Version.md",
-    "Capstone/HZxrdp0PcoqzvIxCS42cg7jWnJc.md",
-    "Capstone/CrufdlwIOo3CZIxyBqIcrBSvnyd.md",
-    "Travel/2023 Christmas.md",
-    "Travel/2024 心怡姐姐22岁生日！出来玩大作战！.md",
-    "Graduate Project.md",
-    "Docusaurus.md",
-    "如果哪天有幸接触乐器的话，一定要谈下面的曲子呀.md",
+    "Capstone/程序接口定义.md",
+    "Capstone/夹爪控制方式.md",
     "WoodOxen/RoadArchitect.md",
-    "Capstone/static",
-    "Capstone",
     "WoodOxen/WeeklyProgress/m1.md",
-    "Unity/Prefab.md",
-    "咖喱二三事.md",
-    "SQL/basic.md",
-    "SQL/pandas.md",
+    "Capstone/6d pose -- unity coordinate.md",
+    "Capstone/项目框架.md",
+    "Capstone/自定义 Gen6d 物体.md",
+    "Capstone/Demo 设计.md",
+    "Capstone/6-D Pose Estimation Survey.md",
+    "Capstone/img/WS7tbjlsUoS6rnxVOqYcmbwwnZe.png",
+    "Capstone/img/TPgPb2GeyoqoDwxKDB2cXw3hnOd.png",
+    "Capstone/img/K65ibGkOAoubFGxze8Cc0w15nlg.png",
+    "Capstone/img/AP80bWKhIogLuOx2yZ5cFW5WnPc.png",
+    "EmbededSystem/ECE3730J RC2_LCD.md",
+    "EmbededSystem/ECE3730J RC3_LAB4.md",
+    "EmbededSystem/ECE3730J RC2_Output_Compare.md",
+    "Capstone/img",
+    "Capstone",
     "剪辑",
     "philosophy",
     "Mod/ONI",

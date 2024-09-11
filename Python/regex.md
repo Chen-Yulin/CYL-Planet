@@ -17,15 +17,6 @@ date:
 - [Example](#example)
   - [Example 1](#example-1)
 <!--toc:end-->
-
-s---
-id: "regex"
-aliases:
-  - "Usage"
-  - "Syntax"
-tags:
-  - "regex"
-  - "python"
 ---
 
 # Syntax

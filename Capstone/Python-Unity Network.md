@@ -17,4 +17,4 @@ categories:
 
 [https://github.com/Siliconifier/Python-Unity-Socket-Communication](https://github.com/Siliconifier/Python-Unity-Socket-Communication)
 
-![](static/TPgPb2GeyoqoDwxKDB2cXw3hnOd.png)
+![](TPgPb2GeyoqoDwxKDB2cXw3hnOd.png)

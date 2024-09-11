@@ -2,6 +2,7 @@
 tags:
   - debate
   - AI
+  - autonomousDriving
 id: 自动驾驶遇到危险时，乘客保护优先vs行人保护优先
 date:
   - 2024-04-04 23:51:26

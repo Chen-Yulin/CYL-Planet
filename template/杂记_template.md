@@ -1,6 +1,6 @@
 ---
 id: "{{title}}"
-tags: 
+tags: []
 date:
   - "{{date}} {{time}}"
 categories:

@@ -14,7 +14,7 @@ categories:
 ---
 # IK Path Planning
 
-![](static/Lvq2b2dvhoB5d3xAv75chgp8nBf.png)
+![](Lvq2b2dvhoB5d3xAv75chgp8nBf.png)
 
 # IK Solver
 
@@ -28,7 +28,7 @@ Unity IK: [https://github.com/2000222/Robotic-Arm-IK-in-Unity](https://github.co
 
 由这个 IK 算法负责机械臂前三个 joint 的旋转，确保 j4 的 anchor（红点）处于物体后上方的特定位置。
 
-![](static/YhzkblkttovgKhxaTmecLcnAnyh.png)
+![](YhzkblkttovgKhxaTmecLcnAnyh.png)
 
 j4 位置的计算方法：
 
@@ -48,7 +48,7 @@ public Vector3 GetPositionForJ4(Vector3 pos)
 
 之后由向量计算得出 j4 应该旋转的角度，以确保末端竖直。
 
-![](static/Goq4beNgiorQU4xvCkkcMyTrnJb.png)
+![](Goq4beNgiorQU4xvCkkcMyTrnJb.png)
 
 j5 不旋转，j6 的旋转角度由物体朝向决定。
 

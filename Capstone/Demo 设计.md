@@ -21,7 +21,7 @@ categories:
 
 首先 RGB-D 相机识别出桌面上的某一个物体，反馈到 hololens 的界面中，用户会看到对应物体上渲染出来了一个边界框和表示位姿的坐标轴：
 
-![](static/H74Jb6HIKodKjvxvHJGcvl1Vnrc.png)
+![](H74Jb6HIKodKjvxvHJGcvl1Vnrc.png)
 
 随后用户可以通过手部的射线来移动这个目标框（物体上的检测框依然会存在）到某个位置，然后目标框上会显示一个 UI 询问是否要把物体移动到这里，如果点击确认，机械臂就会把对应的物体到目标框的位置。
 

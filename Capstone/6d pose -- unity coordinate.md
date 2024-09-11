@@ -45,4 +45,4 @@ def right_to_left_hand_pose_t(t):
 
 可以看到效果很好：
 
-![](static/TRoFbsobAoJOx2xgPcUcDkbxn1e.png)
+![](TRoFbsobAoJOx2xgPcUcDkbxn1e.png)
