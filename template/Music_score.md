@@ -1,14 +1,9 @@
 ---
 id: "{{title}}"
-aliases:
-  - Task
-tags: 
+tags:
+  - Music
 date:
   - "{{date}} {{time}}"
+categories:
+  - 琴谱
 ---
-## Task
-- [ ] 
-****
-## 
-
-

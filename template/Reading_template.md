@@ -5,5 +5,5 @@ tags:
 date:
   - "{{date}} {{time}}"
 categories:
-  - Note
+  - 读读噜
 ---

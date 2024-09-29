@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e96293085c403fbd",
+        "id": "6b76cfd16f30ce34",
         "type": "tabs",
         "children": [
           {
-            "id": "132933eca3891f57",
+            "id": "aea85de95c9d95af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "星空读书会/《HOW MUSIC GOT FREE》读书会p8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6a8c75916000d69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "星空读书会/《倦怠社会》读书会p9.md",
+                "file": "Schedule.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -44,6 +31,7 @@
       {
         "id": "35a9e942cff74e27",
         "type": "tabs",
+        "dimension": 60.86065573770492,
         "children": [
           {
             "id": "67ef8ed3efcd3633",
@@ -61,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Capstone",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,6 +64,48 @@
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ae0f385430254e43",
+        "type": "tabs",
+        "dimension": 39.13934426229508,
+        "children": [
+          {
+            "id": "e85f58d525f3850d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Schedule.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.98829268292683,
+                  "lineSizeMultiplier": 2.70476072861994,
+                  "collapse-forces": false,
+                  "centerStrength": 0.867489966038901,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9281689182363246,
+                  "close": true
+                }
+              }
             }
           }
         ]
@@ -98,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "星空读书会/《倦怠社会》读书会p9.md",
+                "file": "Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "星空读书会/《倦怠社会》读书会p9.md",
+                "file": "Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,11 +180,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "星空读书会/《倦怠社会》读书会p9.md"
+                "file": "Schedule.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,60 +195,62 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c6a8c75916000d69",
+  "active": "aea85de95c9d95af",
   "lastOpenFiles": [
-    "星空读书会/《窄门》读书会p7.md",
+    "PSY/Learning.md",
+    "PSY/Health&Well-Being.md",
+    "PSY/Emotion&Motivation.md",
+    "Python/regex.md",
+    "Python/Scrap.md",
+    "Python/sklearn.md",
+    "ROS/Environment generation.md",
+    "QuantumInformation/basic.md",
+    "星空读书会/《禅与摩托车维修艺术》读书会p10.md",
     "星空读书会/《HOW MUSIC GOT FREE》读书会p8.md",
-    "星空读书会/《倦怠社会》读书会p9.md",
-    "星空读书会/《中国太阳》读书会p5.md",
-    "星空读书会/《非暴力沟通》读书会p6.md",
-    "星空读书会/《雕刻时光》读书会p1.md",
+    "星空读书会/《窄门》读书会p7.md",
     "星空读书会/《边城》读书会p3.md",
-    "星空读书会/《地下室手记》读书会p4.md",
-    "星空读书会/《吾国与吾民》读书会p2.md",
-    "hexo/Hexo Comment System -- Twikoo.md",
-    "hexo/img/Pasted image 20240902223106.png",
-    "hexo/img/Pasted image 20240902215902.png",
-    "hexo/img/Pasted image 20240902215855.png",
-    "hexo/img/Pasted image 20240902215813.png",
-    "hexo/img/Pasted image 20240902215515.png",
-    "hexo/img/Pasted image 20240902214531.png",
+    "星空读书会/《雕刻时光》读书会p1.md",
+    "星空读书会/《非暴力沟通》读书会p6.md",
+    "星空读书会/《倦怠社会》读书会p9.md",
+    "Schedule.md",
+    "goal.md",
+    "2024-09-25.md",
+    "2024-09-26.md",
+    "Shader/Shader Learning Materials.md",
+    "EmbededSystem/ESP32 Development on Linux.md",
+    "EmbededSystem/ESP32-CAM Video Stream.md",
+    "辩论/自动驾驶遇到危险时，乘客保护优先vs行人保护优先.md",
+    "辩论/人间一趟，心无挂碍vs心有所属更值得.md",
+    "辩论/如果你知道别人的死亡时间，你会告诉ta吗.md",
+    "如果哪天有幸接触乐器的话，一定要谈下面的曲子呀.md",
+    "Untitled.canvas",
+    "EmbededSystem/img/Pasted image 20240926095320.png",
+    "EmbededSystem/img/Pasted image 20240616223239.png",
+    "EmbededSystem/img/Pasted image 20240616212934.png",
+    "EmbededSystem/img/Pasted image 20240616202750.png",
+    "EmbededSystem/img/Pasted image 20240925172816.png",
+    "EmbededSystem/img/Pasted image 20240925172909.png",
+    "EmbededSystem/img/Pasted image 20240925172731.png",
+    "EmbededSystem/img/Pasted image 20240925172547.png",
+    "EmbededSystem/img/Pasted image 20240925170942.png",
+    "EmbededSystem/img/Pasted image 20240806134426.png",
+    "杂记",
+    "Travel/img",
+    "template/img",
+    "琴谱/img",
+    "ntitled",
+    "琴谱",
     "hexo/img",
-    "Capstone/IK Path Planning.md",
-    "EmbededSystem/ECE3730J Final RC Part 1.md",
-    "Capstone/Python-Unity Network.md",
-    "Capstone/Robotic Arm Digital Twin(DT).md",
-    "Capstone/程序接口定义.md",
-    "Capstone/夹爪控制方式.md",
-    "WoodOxen/RoadArchitect.md",
-    "WoodOxen/WeeklyProgress/m1.md",
-    "Capstone/6d pose -- unity coordinate.md",
-    "Capstone/项目框架.md",
-    "Capstone/自定义 Gen6d 物体.md",
-    "Capstone/Demo 设计.md",
-    "Capstone/6-D Pose Estimation Survey.md",
-    "Capstone/img/WS7tbjlsUoS6rnxVOqYcmbwwnZe.png",
-    "Capstone/img/TPgPb2GeyoqoDwxKDB2cXw3hnOd.png",
-    "Capstone/img/K65ibGkOAoubFGxze8Cc0w15nlg.png",
-    "Capstone/img/AP80bWKhIogLuOx2yZ5cFW5WnPc.png",
-    "EmbededSystem/ECE3730J RC2_LCD.md",
-    "EmbededSystem/ECE3730J RC3_LAB4.md",
-    "EmbededSystem/ECE3730J RC2_Output_Compare.md",
     "Capstone/img",
     "Capstone",
-    "剪辑",
-    "philosophy",
-    "Mod/ONI",
-    "Mod",
-    "JustWork",
-    "EmbededSystem/img",
-    "Computer Network"
+    "剪辑"
   ]
 }

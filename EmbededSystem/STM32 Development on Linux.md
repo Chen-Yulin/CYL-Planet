@@ -1,9 +1,10 @@
 ---
 id: STM32 Development on Linux
-aliases: []
+aliases: 
 tags:
   - Embeded-System
   - linux
+  - pio
 categories:
   - Note
 date:

@@ -2,6 +2,7 @@
 id: Graduate Project
 tags:
   - course
+  - Capstone
 date:
   - 2024-04-25 14:26:00
 categories:
